@@ -1,0 +1,43 @@
+.wrapper {
+    background-color: darkblue;
+    width: 970px;
+}
+.header {
+    background-color: red;
+    color: white;
+    display: inline-block;
+    border-radius: 15px;
+    width: 900px;
+    padding: 5px 5px 5px 25px;
+    margin: 15px 15px 15px 15px;
+    
+}
+.body {
+    display: block;
+}
+.menu {
+    background-color: green;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 5px 10px 5px 5px;
+    margin: 15px 15px 15px 15px;
+    vertical-align: top;
+}
+.contents {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border-radius: 15px;
+    width: 640px;
+    padding: 5px 10px 5px 20px;
+    margin: 15px 15px 15px 15px;
+}
+.footer {
+    background-color: gray;
+    color: white;
+    display: inline-block;
+    border-radius: 15px;
+    width: 900px;
+    padding: 10px 10px 10px 10px;
+    margin: 15px 15px 15px 15px;
+}
